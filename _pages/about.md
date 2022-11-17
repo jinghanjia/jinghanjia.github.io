@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: assets\img\code-screenshot.png
-  image_circular: true # crops the image to make it circular
+  image: code-screenshot.png
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Room 3210 </p>
     <p>428 S Shaw LN</p>
