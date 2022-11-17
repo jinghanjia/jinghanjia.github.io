@@ -9,9 +9,9 @@ profile:
   image: ..\assets\img\prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>3210 </p>
-    <p>Engineer building</p>
-    <p>East Lansing, MI 48823</p>
+    <p>Room 3210 </p>
+    <p>428 S Shaw LN</p>
+    <p>East Lansing, MI, USA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
